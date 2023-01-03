@@ -19,7 +19,7 @@ body{
 .nav-link{
     padding: 0 1.5rem !important;
     font-weight: 600;
-    color: rgb(3, 3, 29);
+    color: rgb(6, 6, 87);
     font-family: sans-serif;
 }
 .digital{
@@ -48,7 +48,9 @@ body{
 .buttn{
     border-radius: 5rem;
 }
-
+h4{
+    font-family: fantasy;
+}
 
 .image{
     background-color: #FDF0E0;
